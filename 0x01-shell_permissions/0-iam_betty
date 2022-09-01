@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > /home/betty/betty-script.sh 
+su -c '/home/betty/betty-script.sh'
