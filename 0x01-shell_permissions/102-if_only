@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bash
 chown--from=guillame betty hello
