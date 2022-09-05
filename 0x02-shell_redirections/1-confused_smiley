@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ctrl k O^" 
+echo ctrl -k O^" 
