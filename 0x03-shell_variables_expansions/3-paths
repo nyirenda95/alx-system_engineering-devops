@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $path | tr "i" "\n" | wc -1
+echo path | tr "i" "\n" | wc -1
